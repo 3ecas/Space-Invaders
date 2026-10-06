@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f2fdf866f78b8749954a44a7df24789, type: 3}
+  m_Name: Drone
+  m_EditorClassIdentifier: Assembly-CSharp::SpaceShooter.EnemyData
+  displayName: Drone
+  prefab: {fileID: 4182788290125293414, guid: c205a702f65690643856d54bf4c0f6f8, type: 3}
+  maxHealth: 12
+  moveSpeed: 7.5
+  scoreValue: 50
+  contactDamage: 15
+  dieOnContact: 1
+  dropChance: 0.05
+  guaranteedDrops: 0
+  firstWave: 1
+  threatCost: 1
+  spawnWeight: 1.4
+  pattern: 0
+  groupSize: {x: 6, y: 10}
+  spawnInterval: 0.3
+  spacing: 1.8
+  blocksWaveClear: 1
+  deathEffect: {fileID: 7257703858592065232, guid: bba36f14ceb12a44eb593ec5e1510562, type: 3}
+  deathSfx: 12
+  deathShake: 0.06

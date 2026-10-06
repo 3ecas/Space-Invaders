@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7afe22c52d2bbcf42b44428ad6c7a659, type: 3}
+  m_Name: WeaponSpreadShot
+  m_EditorClassIdentifier: Assembly-CSharp::SpaceShooter.PickupData
+  label: SPREAD SHOT
+  type: 6
+  amount: 0
+  duration: 0
+  weapon: {fileID: 11400000, guid: e01daae88aa1d7647a0957516543810b, type: 2}
+  sprite: {fileID: 21300000, guid: 0a08ecbb8e6aefb4f9c46f688a0bfcc6, type: 3}
+  color: {r: 0.9843137, g: 0.57254905, b: 0.23529412, a: 1}
+  sfx: 30

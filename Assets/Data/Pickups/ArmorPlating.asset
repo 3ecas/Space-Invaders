@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7afe22c52d2bbcf42b44428ad6c7a659, type: 3}
+  m_Name: ArmorPlating
+  m_EditorClassIdentifier: Assembly-CSharp::SpaceShooter.PickupData
+  label: +50 ARMOR
+  type: 1
+  amount: 50
+  duration: 0
+  weapon: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 8c51c5cd2c7b43e449ca62b1793696b4, type: 3}
+  color: {r: 0.79607844, g: 0.8352941, b: 0.88235295, a: 1}
+  sfx: 30

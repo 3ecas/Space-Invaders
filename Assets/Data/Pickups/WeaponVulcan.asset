@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7afe22c52d2bbcf42b44428ad6c7a659, type: 3}
+  m_Name: WeaponVulcan
+  m_EditorClassIdentifier: Assembly-CSharp::SpaceShooter.PickupData
+  label: VULCAN
+  type: 6
+  amount: 0
+  duration: 0
+  weapon: {fileID: 11400000, guid: a5c728dee9445284dab888ece7e64915, type: 2}
+  sprite: {fileID: 21300000, guid: 347faa02a58f1aa41b60b58757ec8b62, type: 3}
+  color: {r: 0.98039216, g: 0.8, b: 0.08235294, a: 1}
+  sfx: 30

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c48c730a63b1dc448c47994b3dc1a8e, type: 3}
+  m_Name: DropTable
+  m_EditorClassIdentifier: Assembly-CSharp::SpaceShooter.DropTable
+  entries:
+  - pickup: {fileID: 11400000, guid: 3797a025be1b5134cbd59d478c8c9f21, type: 2}
+    weight: 10
+  - pickup: {fileID: 11400000, guid: b0b021c22959e254aac5ebaf0b5c9d30, type: 2}
+    weight: 8
+  - pickup: {fileID: 11400000, guid: 745d561cf5c15f843b95d01a4f1074f0, type: 2}
+    weight: 7
+  - pickup: {fileID: 11400000, guid: 1ea2690ecece5b34aa212626b149a874, type: 2}
+    weight: 5
+  - pickup: {fileID: 11400000, guid: 4ac6069bf1a4c3c4295117566555c13d, type: 2}
+    weight: 4
+  - pickup: {fileID: 11400000, guid: 9a7b958f7a947724e88364b8f2d00cec, type: 2}
+    weight: 4
+  - pickup: {fileID: 11400000, guid: 6db3ea14960f09a408dabc9a005e6edd, type: 2}
+    weight: 5
+  - pickup: {fileID: 11400000, guid: cc5cb8128ca232a4099308a78c37a713, type: 2}
+    weight: 5
+  - pickup: {fileID: 11400000, guid: af7c00bff0ae4664b85827892e9f9d3f, type: 2}
+    weight: 4
+  - pickup: {fileID: 11400000, guid: 3a22fc6488ff0db46a473b3162ed81ef, type: 2}
+    weight: 3.5
+  - pickup: {fileID: 11400000, guid: 515e2ac0b4b8ddc428e5f540d9675b0c, type: 2}
+    weight: 3
